@@ -240,6 +240,7 @@ p {
 @media (max-width: 500px) {
   .home .space-images .sky {
     display: none;
+    width: 90%;
   }
 }
 @media (max-width: 500px) {
@@ -255,7 +256,7 @@ p {
 }
 @media (max-width: 500px) {
   .home .space-images img {
-    width: 75%;
+    width: 90%;
   }
 }
 .home .visit-planets {
@@ -279,6 +280,8 @@ p {
     width: 100%;
     flex-direction: column-reverse;
     padding: 10px;
+    margin-top: 20px;
+    padding-top: 20px;
     justify-content: center;
   }
 }
